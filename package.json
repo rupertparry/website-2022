@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.1"
+  },
+  "scripts": {
+    "dev": "eleventy --watch --serve --port=1234",
+    "start": "yarn dev",
+    "build": "eleventy"
+  },
+  "name": "website-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rupertparry/website-2022.git",
+  "author": "Rupert Parry <rp@rupert.cloud>",
+  "license": "MIT"
+}

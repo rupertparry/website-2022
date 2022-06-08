@@ -1,0 +1,125 @@
+@font-face {
+  font-family: Quattro;
+  font-style: normal;
+  font-weight: normal;
+  src: url(/assets/fonts/iAWriterQuattroS-Regular.woff), url(/assets/fonts/iAWriterQuattroS-Regular.woff);
+}
+
+@font-face {
+  font-family: Quattro;
+  font-style: normal;
+  font-weight: bold;
+  src: url(/assets/fonts/iAWriterQuattroS-Bold.woff2), url(/assets/fonts/iAWriterQuattroS-Bold.woff);
+}
+
+@font-face {
+  font-family: Quattro;
+  font-style: italic;
+  font-weight: normal;
+  src: url(/assets/fonts/iAWriterQuattroS-Italic.woff2), url(/assets/fonts/iAWriterQuattroS-Italic.woff);
+}
+
+@font-face {
+  font-family: Quattro;
+  font-style: italic;
+  font-weight: bold;
+  src: url(/assets/fonts/iAWriterQuattroS-BoldItalic.woff2), url(/assets/fonts/iAWriterQuattroS-BoldItalic.woff);
+}
+
+:root {
+  --color-body: #1A1A1A;
+  --color-body-alt: #ababab;
+  --color-interaction: #0083c5;
+  --color-bg: #F7F7F7;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-body: rgb(235, 239, 240);
+    --color-body-alt: rgb(144, 148, 149);
+    --color-bg: #131518;
+  }
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: var(--color-bg);
+  color: var(--color-body);
+  font-family: "Quattro";
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding-bottom: 300px;
+}
+
+header {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.page {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+a,
+a:visited {
+  color: var(--color-interaction)
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+em:before {
+  content: '*';
+  color: var(--color-body-alt)
+}
+
+em:after {
+  content: '*';
+  color: var(--color-body-alt)
+}
+
+ul.files {
+  list-style: none;
+  border: 1px solid var(--color-body);
+  border-radius: 8px;
+  padding: 15px 40px;
+  margin: 40px 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+ul.files li {
+  margin: 0;
+  margin-top: -5px;
+}
+
+ul.files li:before {
+  content: '📄';
+  border-bottom: none;
+  margin-right: 6px;
+}
+
+ul.files a {
+  text-decoration: none;
+  border-bottom: 1px dotted;
+}

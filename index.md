@@ -27,10 +27,10 @@ I'm working on an early-stage startup aimed at enabling musicians to create
 adaptive music &mdash; songs that can delightfully evolve according to time, location,
 biometrics, and other factors.
 
-I recently wrapped up my time as lead technologist at Heyday Labs, where I
+I recently wrapped up my time as lead technologist at [Heyday Labs](https://heydaylabs.co), where I
 worked with clients like Google &amp; the UK Government to create experiences
 &amp; early-stage products.
 
-Before that I was a creative technologist at Google Creative Lab.
+Before that I was a creative technologist at [Google Creative Lab](https://experiments.withgoogle.com/search?q=google%20creative%20lab).
 
 <!-- ## Selected projects -->

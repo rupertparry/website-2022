@@ -19,7 +19,7 @@ I keep on coming back to these themes...
   future generations *(this one's a problem for later...)*
 
 <ul class="files">
-  <li><a href="{{config.cdnUrl}}/rupert-resume-jun2022.pdf">Resume</a></li>
+  <li><a href="{{config.cdnUrl}}/rupert-resume-jun2022.pdf" download>Resume</a></li>
 </ul>
 
 ## Current status
@@ -28,10 +28,13 @@ I'm working on an early-stage startup aimed at enabling musicians to create
 adaptive music &mdash; songs that can delightfully evolve according to time, location,
 biometrics, and other factors.
 
-I recently wrapped up my time as lead technologist at [Heyday Labs](https://heydaylabs.co), where I
+I recently wrapped up my time as lead technologist at
+<a href="https://heydaylabs.co" target="_blank">Heyday Labs</a>, where I
 worked with clients like Google &amp; the UK Government to create experiences
 &amp; early-stage products.
 
-Before that I was a creative technologist at [Google Creative Lab](https://experiments.withgoogle.com/search?q=google%20creative%20lab).
+Before that I was a creative technologist at
+<a href="https://experiments.withgoogle.com/search?q=google%20creative%20lab"
+target="_blank">Google Creative Lab</a>.
 
 <!-- ## Selected projects -->

@@ -10,8 +10,8 @@ I keep on coming back to these themes...
 - Empowering individuals to use and shape new technologies, especially
   machine learning *(which remains as powerful as it is
   intractible to ordinary people)*
-- Natural user interface design: computing that fits into natural
-  human behaviour, and feels magical *(think Harry Potter, not Minority
+- Natural user interface design: computing that fits into healthy
+  human behaviours, and feels magical *(think Harry Potter, not Minority
   Report)*
 - Open protocols, or how we can build the next wave of computing without isolating
   power in like 3 companies

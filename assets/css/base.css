@@ -39,6 +39,7 @@
   --color-body-alt: #ababab;
   --color-interaction: rgb(0, 0, 0);
   --color-bg: #F7F7F7;
+  --color-highlight: blue;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -46,6 +47,8 @@
     --color-body: rgb(235, 239, 240);
     --color-body-alt: rgb(144, 148, 149);
     --color-bg: #131518;
+    --color-highlight: lightblue;
+    --color-interaction: white;
   }
 }
 
@@ -93,7 +96,7 @@ h1 {
 
 #globe-icon {
   text-align: center;
-  color: blue;
+  color: var(--color-highlight);
   font-size: 40px;
 }
 

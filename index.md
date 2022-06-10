@@ -80,6 +80,13 @@ target="_blank">Google Creative Lab</a>.
 
 ## <span class="emoji">🗣</span> Articles & talks
 
+- **2022-05-10** ACM CHI Conference on Human Factors in Computing Systems,
+  presenting my paper on "Perception of control in generative AI music user interfaces"
+- **2022-04-05** WIPO conversation on intellectual property and frontier
+  technologies(<a
+  href="https://c.connectedviews.com/05/SitePlayer/wipo?session=115052&starttime=4709" target="_blank">wipo.int</a>
+  @ 1:32:31), where I discuss opportunities and threats around AI in the music
+  industry.
 - **2021-12-11** Live interview with Holly Herndon
 (<a
 href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=431296195362579"
@@ -89,8 +96,3 @@ target="_blank">facebook.com</a>)
 (<a
 href="https://www.goethe.de/prj/k40/en/mus/machine-music.html" target="_blank">goethe.de</a>)
 for the Goethe Institut.
-- **2022-04-05** WIPO conversation on intellectual property and frontier
-  technologies(<a
-  href="https://c.connectedviews.com/05/SitePlayer/wipo?session=115052&starttime=4709" target="_blank">wipo.int</a>
-  @ 1:32:31), where I discuss opportunities and threats around AI in the music
-  industry.

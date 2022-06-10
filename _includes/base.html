@@ -14,18 +14,21 @@
 
 	<link rel="stylesheet" href="/assets/css/base.css" />
 	{% if stylesheet %}<link rel="stylesheet" href="/assets/css/{{stylesheet}}.css" />{% endif %}
+	
+	<script src="/assets/js/animation.js" defer></script>
 
 	<title>Rupert's world - the internet home of Rupert Parry</title>
 </head>
 <body>
 	<header class="page">
-		<h1>🌏 Rupert's world</h1>
+		<div class="emoji" id="globe-icon">🌏</div>
+		<h1>Rupert's world</h1>
 	</header>
 	{{ content }}
 	<footer>
 		<ul>
-			<li>📮 <a href="mailto:rp@rupert.cloud">rp@rupert.cloud</a></li>
-			<li>🐦 <a href="https://twitter.com/rupert_parry?lang=en">@rupert_parry</a></li>
+			<li><span class="emoji">📮</span> <a href="mailto:rp@rupert.cloud">rp@rupert.cloud</a></li>
+			<li><span class="emoji">🐦</span> <a href="https://twitter.com/rupert_parry?lang=en">@rupert_parry</a></li>
 		</ul>
 	</footer>
 </body>

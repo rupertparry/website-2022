@@ -74,6 +74,10 @@ header {
   padding-bottom: 10px;
 }
 
+ul {
+  padding-left: 22px;
+}
+
 .emoji {
   font-family: Emoji, sans-serif;
 }
@@ -101,6 +105,7 @@ h1 {
 }
 
 h2 {
+  margin-top: 40px;
   font-size: 18px;
 }
 
@@ -148,7 +153,7 @@ ul.files a {
 }
 
 footer {
-  margin-top: 100px;
+  margin-top: 70px;
   border-top: 1px solid var(--color-body);
   padding-bottom: 1px;
 }

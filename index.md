@@ -19,7 +19,7 @@ I keep on coming back to these themes...
   future generations *(this one's a problem for later...)*
 
 <ul class="files">
-  <li><a href="{{config.cdnUrl}}/rupert-resume-jun2022.pdf" download>Resume</a></li>
+  <li><a href="{{config.cdnUrl}}/rupert-resume-jun2022.pdf" target="_blank" download>Resume</a></li>
 </ul>
 
 ## <span class="emoji">🔮</span> Current status
@@ -54,30 +54,43 @@ target="_blank">Google Creative Lab</a>.
   large language models, and graph the results. I
   was the lead developer & designer for this project, which emerged from an
   exploration with Google into the future of Sheets.
-- I built a series of [AI tools for
-  writers](https://experiments.withgoogle.com/collection/aiwriting) and
-  [musicians](https://www.youtube.com/watch?v=MbKsRJ5MsnA) with Google. We explored how
+- I built a series of <a
+  href="https://experiments.withgoogle.com/collection/aiwriting" target="_blank">AI tools for
+  writers</a> and
+  <a href="https://www.youtube.com/watch?v=MbKsRJ5MsnA" target="_blank">musicians</a> with Google. We explored how
   AI could be a creative collaboration tool, through
   hands-on research and rapid prototyping with writers and artists. The
   resulting apps spawned a
-  series of short stories featured in the [Digital Writers
-  Festival](https://2019.digitalwritersfestival.com/event/creativity-inside-the-machine/),
-  and were presented at the [2020 ARIA
-  Masterclass](https://www.aria.com.au/awards/news/aria-masterclass-machine-learning-ai-music).
-- [Sounds In Space](https://experiments.withgoogle.com/sounds-in-space) is a toolkit for developing location-based audio AR experiences. You can walk around a room with your phone, drop virtual instruments in space, then walk around while a band "plays" in the room with you. The tech has been used by [dance troupes in Harlem](https://heidilatskydance.org/displayed) and led to a [public art exhibition at MUMA](https://vimeo.com/393792407). It's freely available [here](https://github.com/googlecreativelab/sounds-in-space).
+  series of short stories featured in the <a
+  href="https://2019.digitalwritersfestival.com/event/creativity-inside-the-machine/"
+  target="_blank">Digital Writers
+  Festival</a>,
+  and were presented at the <a
+  href="https://www.aria.com.au/awards/news/aria-masterclass-machine-learning-ai-music"
+  target="_blank">2020 ARIA
+  Masterclass</a>.
+- <a href="https://experiments.withgoogle.com/sounds-in-space" target="_blank">Sounds In Space</a> is a
+  toolkit for developing location-based audio AR experiences. You can walk
+  around a room with your phone, drop virtual instruments in space, then walk
+  around while a band "plays" in the room with you. The tech has been used by
+  <a href="https://heidilatskydance.org/displayed" target="_blank">dance troupes in Harlem</a> and led to a
+  <a href="https://vimeo.com/393792407" target="_blank">public art exhibition at MUMA</a>. It's freely
+  available <a href="https://github.com/googlecreativelab/sounds-in-space" target="_blank">here</a>.
 
 
 ## <span class="emoji">🗣</span> Articles & talks
 
 - **2021-12-11** Live interview with Holly Herndon
-(<a href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=431296195362579">facebook.com</a>)
+(<a
+href="https://www.facebook.com/watch/live/?ref=watch_permalink&v=431296195362579"
+target="_blank">facebook.com</a>)
   for Melbourne Music Week.
 - **2021-12-01** "AI & IP: Who owns music made by a machine?"
 (<a
-href="https://www.goethe.de/prj/k40/en/mus/machine-music.html">goethe.de</a>)
+href="https://www.goethe.de/prj/k40/en/mus/machine-music.html" target="_blank">goethe.de</a>)
 for the Goethe Institut.
 - **2022-04-05** WIPO conversation on intellectual property and frontier
   technologies(<a
-  href="https://c.connectedviews.com/05/SitePlayer/wipo?session=115052&starttime=4709">wipo.int</a>
+  href="https://c.connectedviews.com/05/SitePlayer/wipo?session=115052&starttime=4709" target="_blank">wipo.int</a>
   @ 1:32:31), where I discuss opportunities and threats around AI in the music
   industry.

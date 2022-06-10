@@ -42,7 +42,7 @@ target="_blank">Google Creative Lab</a>.
 - <a href="https://moonhotline.tourdemoon.com" target="_blank">Moon Hotline</a> is a re-imagining of how we
   might interact with conversational user interfaces. It's an AI interactive
   theatre piece, where you can have a wide-ranging conversation with a
-  determined and sometimes argumentative Moon. It was commissioned by
+  curious and sometimes argumentative Moon. It was commissioned by
   the UK Government for Unboxed, a nation-wide festival for innovation, art and
   culture. I lead the development and design, working with WeTransfer on front-end
   UX, overseeing a team of writers, and building the logic and API in Python.
